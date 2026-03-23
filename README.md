@@ -2,7 +2,7 @@
 
 A fully browser-based face recognition system built with vanilla JavaScript and TensorFlow.js. No backend, no server, no installation — just open the HTML file and it works.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-00e5ff?style=for-the-badge&logo=netlify)](https://your-link-here.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-00e5ff?style=for-the-badge&logo=netlify)](https://biometric-access-for-college.netlify.app/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
