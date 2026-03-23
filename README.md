@@ -47,7 +47,7 @@ The face recognition uses a **128-dimensional face embedding** model (similar to
 ### Option 1 — Just open the file
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR-USERNAME/face-recognition-system.git
+git clone https://github.com/ankit637836/Biometric-Access-for-College.git
 
 # Open in browser
 open index.html
@@ -168,8 +168,8 @@ MIT License — free to use, modify, and distribute.
 ## 🙋 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- GitHub: [https://github.com/ankit637836/](https://github.com/ankit637836/)
+- LinkedIn: [https://www.linkedin.com/in/ankit-80062b1b9/](https://www.linkedin.com/in/ankit-80062b1b9/)
 
 ---
 
