@@ -165,7 +165,7 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-## 🙋 Author
+## 🙋 Author - Ankit
 
 **Your Name**
 - GitHub: [https://github.com/ankit637836/](https://github.com/ankit637836/)
